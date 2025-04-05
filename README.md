@@ -1,6 +1,6 @@
-# ✅ To-Do List | Bryan
+# ✅ To-Do-List | Bryan
 
-Projeto de **lista de tarefas (To-Do List)** com foco em organização pessoal e produtividade. Desenvolvido com um layout limpo e intuitivo, permite adicionar, visualizar e marcar tarefas como concluídas de forma simples.
+Projeto de **lista de tarefas (To-Do-List)** com foco em organização pessoal e produtividade. Desenvolvido com um layout limpo e intuitivo, permite adicionar, visualizar e marcar tarefas como concluídas de forma simples.
 
 ## 🧩 Funcionalidades
 
